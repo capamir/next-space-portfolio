@@ -11,7 +11,7 @@ import { FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className="snap-center w-full h-full bg-transparent text-gray-200 shadow-lg p-[15px]  ">
+    <div className="snap-center w-full  bg-transparent text-gray-200 shadow-lg p-[15px] responsive ">
       <div className="w-full flex flex-col items-center justify-center m-auto">
         <div className="w-full h-full flex flex-row items-center justify-around flex-wrap">
           <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">

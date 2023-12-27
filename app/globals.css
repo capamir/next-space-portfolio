@@ -3,6 +3,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@media screen and (max-width: 778px) {
+  .responsive {
+    margin-top: 30px;
+  }
+}
 .section {
   height: 100vh;
   scroll-snap-align: center;
